@@ -1,0 +1,23 @@
+{
+  "name": "medmeup",
+  "version": "0.0.1",
+  "description": "A application to help my old parents to get meds in the right moment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjborba/medmeup.git"
+  },
+  "keywords": [
+    "drug",
+    "medicine"
+  ],
+  "author": "Rodrigo Borba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjborba/medmeup/issues"
+  },
+  "homepage": "https://github.com/rjborba/medmeup#readme"
+}
